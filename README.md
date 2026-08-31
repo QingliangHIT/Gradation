@@ -62,7 +62,7 @@ pip install PyQt5 opencv-python numpy matplotlib pandas openpyxl scikit-image
 ```bash
 pip install torch torchvision tqdm   # UNet 训练与推理
 pip install ultralytics              # YOLO 实例分割（可选）
-pip install torch                    # SAM 分割依赖
+...
 ```
 
 ## 运行
