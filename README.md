@@ -41,8 +41,7 @@ Gradation829/
 │   ├── predict_unet.py           # 独立推理脚本
 │   └── unet_model.py             # 模型定义
 ├── samInstance_project/          # SAM（segment-anything）本地源码
-├── yolo_project/                 # YOLO 训练脚本
-└── img_precesss.py               # 图像缩放/切分工具脚本
+└── yolo_project/                 # YOLO 训练脚本
 ```
 
 ## 环境要求
