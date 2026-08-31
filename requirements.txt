@@ -1,0 +1,14 @@
+# 基础运行依赖（主程序，界面 + 算法）
+PyQt5
+opencv-python
+numpy
+matplotlib
+pandas
+openpyxl
+scikit-image
+
+# 深度学习推理 / 训练（可选，按需安装）
+# torch
+# torchvision
+# tqdm        # UNet 训练
+# ultralytics # YOLO 实例分割
